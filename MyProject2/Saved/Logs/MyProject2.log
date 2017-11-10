@@ -1,0 +1,544 @@
+﻿Log file open, 11/10/17 16:43:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1867313392) SRandInit(-1867313392).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.163347
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.10-21.43.41:767][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.10-21.43.41:767][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.10-21.43.41:786][  0]LogInit: Computer: DREW
+[2017.11.10-21.43.41:786][  0]LogInit: User: Drew
+[2017.11.10-21.43.41:786][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.10-21.43.41:786][  0]LogInit: High frequency timer resolution =3.233203 MHz
+[2017.11.10-21.43.41:786][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.11.10-21.43.41:786][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.10-21.43.41:786][  0]LogMemory: Process Physical Memory: 277.59 MB used, 277.59 MB peak
+[2017.11.10-21.43.41:786][  0]LogMemory: Process Virtual Memory: 273.90 MB used, 273.90 MB peak
+[2017.11.10-21.43.41:786][  0]LogMemory: Physical Memory: 6469.53 MB used,  1689.59 MB free, 8159.12 MB total
+[2017.11.10-21.43.41:786][  0]LogMemory: Virtual Memory: 667.91 MB used,  1689.59 MB free, 134217728.00 MB total
+[2017.11.10-21.43.41:942][  0]LogInit: Using OS detected language (en-US).
+[2017.11.10-21.43.41:942][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.10-21.43.41:945][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.10-21.43.42:605][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.10-21.43.42:648][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.11.10-21.43.42:648][  0]LogD3D11RHI:       6061/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.10-21.43.42:649][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.10-21.43.42:649][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.10-21.43.42:649][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.10-21.43.42:655][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.10-21.43.42:655][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.10-21.43.42:655][  0]LogWindows: EnumDisplayDevices:
+[2017.11.10-21.43.42:655][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.11.10-21.43.42:655][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2017.11.10-21.43.42:655][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.11.10-21.43.42:655][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.11.10-21.43.42:656][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.10-21.43.42:656][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.11.10-21.43.42:656][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.11.10-21.43.42:656][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.11.10-21.43.42:656][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.10-21.43.42:678][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.10-21.43.42:688][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.10-21.43.42:737][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Intermediate/Shaders/WorkingDirectory/3952/).
+[2017.11.10-21.43.42:737][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Drew/AppData/Local/Temp/UnrealShaderWorkingDir/653006AE44A8DD79540BAA9FB65699C5/'.
+[2017.11.10-21.43.42:737][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.10-21.43.43:613][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.10-21.43.43:662][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.10-21.43.43:714][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.10-21.43.43:763][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.10-21.43.43:813][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.10-21.43.43:862][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.10-21.43.43:912][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.10-21.43.43:962][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.10-21.43.44:006][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.10-21.43.44:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.10-21.43.44:103][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.10-21.43.44:151][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.10-21.43.44:201][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.10-21.43.44:249][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.10-21.43.44:298][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.10-21.43.44:395][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.10-21.43.44:395][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.10-21.43.44:433][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.10-21.43.44:532][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.10-21.43.44:562][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.10-21.43.44:611][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.10-21.43.44:660][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.10-21.43.44:712][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.10-21.43.44:760][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.10-21.43.44:760][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.10-21.43.45:228][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.10-21.43.45:326][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/Drew/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.10-21.43.45:326][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Drew/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.10-21.43.45:326][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.10-21.43.45:326][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.10-21.43.45:326][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.10-21.43.45:326][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.10-21.43.45:342][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.10-21.43.45:354][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Drew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.10-21.43.45:364][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.10-21.43.45:364][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.10-21.43.45:364][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.10-21.43.45:365][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.10-21.43.45:623][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2017.11.10-21.43.45:735][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.10-21.43.45:874][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.10-21.43.46:165][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.10-21.43.46:204][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.10-21.43.46:204][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.10-21.43.46:204][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.10-21.43.46:204][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.10-21.43.46:205][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.10-21.43.46:544][  0]LogNetVersion: MyProject2 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 237949846)
+[2017.11.10-21.43.46:767][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.066692 seconds
+[2017.11.10-21.43.46:774][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.10-21.43.46:774][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.10-21.43.46:774][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.10-21.43.46:835][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.10-21.43.49:371][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.10-21.43.49:421][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.10-21.43.50:035][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.10-21.43.50:424][  0]SourceControl: Source control is disabled
+[2017.11.10-21.43.50:424][  0]SourceControl: Source control is disabled
+[2017.11.10-21.43.50:469][  0]SourceControl: Source control is disabled
+[2017.11.10-21.43.50:516][  0]SourceControl: Source control is disabled
+[2017.11.10-21.43.51:097][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.10-21.43.51:329][  0]LogOcInput: OculusInput pre-init called
+[2017.11.10-21.43.51:573][  0]LogEngine: Initializing Engine...
+[2017.11.10-21.43.51:575][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.10-21.43.51:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.10-21.43.51:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.10-21.43.51:948][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.10-21.43.51:967][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-21.43.51:982][  0]LogInit: FAudioDevice initialized.
+[2017.11.10-21.43.52:067][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/Drew/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.10-21.43.52:085][  0]LogInit: Texture streaming: Enabled
+[2017.11.10-21.43.52:242][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.10-21.43.52:452][  0]LogInit: Transaction tracking system initialized
+[2017.11.10-21.43.52:776][  0]BlueprintLog: New page: Editor Load
+[2017.11.10-21.43.53:806][  0]LocalizationService: Localization service is disabled
+[2017.11.10-21.43.54:511][  0]LogConsoleResponse: Display: 
+[2017.11.10-21.43.54:667][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/' took 0.01s
+[2017.11.10-21.43.54:667][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.10-21.43.54:667][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.10-21.43.54:667][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.10-21.43.55:773][  0]SourceControl: Source control is disabled
+[2017.11.10-21.43.55:775][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/StarterContent.upack)
+[2017.11.10-21.43.55:780][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.11.10-21.43.55:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.11.10-21.43.55:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.11.10-21.43.55:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.11.10-21.43.55:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.11.10-21.43.55:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.11.10-21.43.55:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.11.10-21.43.55:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.11.10-21.43.55:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.11.10-21.43.55:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.11.10-21.43.55:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.11.10-21.43.55:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.11.10-21.43.55:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.11.10-21.43.55:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.11.10-21.43.55:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.11.10-21.43.55:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.11.10-21.43.56:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.11.10-21.43.56:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.11.10-21.43.56:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Fire01.uasset"
+[2017.11.10-21.43.56:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.11.10-21.43.56:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.11.10-21.43.56:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.11.10-21.43.56:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Light01.uasset"
+[2017.11.10-21.43.56:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.11.10-21.43.56:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Light02.uasset"
+[2017.11.10-21.43.56:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.11.10-21.43.56:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.11.10-21.43.56:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.11.10-21.43.56:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.11.10-21.43.56:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.11.10-21.43.56:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.11.10-21.43.56:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.11.10-21.43.56:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.11.10-21.43.56:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.11.10-21.43.56:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Steam01.uasset"
+[2017.11.10-21.43.56:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.11.10-21.43.56:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.11.10-21.43.56:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.11.10-21.43.56:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.11.10-21.43.56:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.11.10-21.43.56:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.11.10-21.43.56:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.11.10-21.43.56:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.11.10-21.43.56:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.11.10-21.43.56:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.11.10-21.43.56:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.11.10-21.43.56:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.11.10-21.43.56:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.11.10-21.43.56:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.11.10-21.43.56:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.11.10-21.43.56:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.11.10-21.43.56:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.11.10-21.43.56:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.11.10-21.43.56:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.11.10-21.43.56:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.11.10-21.43.56:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.11.10-21.43.56:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.11.10-21.43.56:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Maps/StarterMap.umap"
+[2017.11.10-21.43.56:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.11.10-21.43.56:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.11.10-21.43.56:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.11.10-21.43.57:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.11.10-21.43.57:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.11.10-21.43.57:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.11.10-21.43.57:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.11.10-21.43.57:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.11.10-21.43.57:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.11.10-21.43.57:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.11.10-21.43.57:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.11.10-21.43.57:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.11.10-21.43.57:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.11.10-21.43.57:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.11.10-21.43.57:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.11.10-21.43.57:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.11.10-21.43.57:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.11.10-21.43.57:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.11.10-21.43.57:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.11.10-21.43.57:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.11.10-21.43.57:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.11.10-21.43.57:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.11.10-21.43.57:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.11.10-21.43.57:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.11.10-21.43.57:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.11.10-21.43.57:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.11.10-21.43.57:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.11.10-21.43.57:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.11.10-21.43.57:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.11.10-21.43.57:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.11.10-21.43.57:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.11.10-21.43.57:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.11.10-21.43.57:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.11.10-21.43.57:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.11.10-21.43.57:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.11.10-21.43.57:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.11.10-21.43.57:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.11.10-21.43.57:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.11.10-21.43.57:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.11.10-21.43.57:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.11.10-21.43.57:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.11.10-21.43.57:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.11.10-21.43.57:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.11.10-21.43.57:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.11.10-21.43.57:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.11.10-21.43.57:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.11.10-21.43.57:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.11.10-21.43.57:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.11.10-21.43.57:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.11.10-21.43.57:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.11.10-21.43.57:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.11.10-21.43.57:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.11.10-21.43.57:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.11.10-21.43.57:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.11.10-21.43.57:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.11.10-21.43.57:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.11.10-21.43.57:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.11.10-21.43.57:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.11.10-21.43.57:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.11.10-21.43.57:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.11.10-21.43.57:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.11.10-21.43.57:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.11.10-21.43.57:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.11.10-21.43.58:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.11.10-21.43.58:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.11.10-21.43.58:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Door.uasset"
+[2017.11.10-21.43.58:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.11.10-21.43.58:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.11.10-21.43.58:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.11.10-21.43.58:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.11.10-21.43.58:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.11.10-21.43.58:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.11.10-21.43.58:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.11.10-21.43.58:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.11.10-21.43.58:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.11.10-21.43.58:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.11.10-21.43.58:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.11.10-21.43.58:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.11.10-21.43.58:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.11.10-21.43.58:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.11.10-21.43.58:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.11.10-21.43.58:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.11.10-21.43.58:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.11.10-21.43.58:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.11.10-21.43.58:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.11.10-21.43.58:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.11.10-21.43.58:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.11.10-21.43.58:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.11.10-21.43.58:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.11.10-21.43.58:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.11.10-21.43.58:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.11.10-21.43.58:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.11.10-21.43.58:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.11.10-21.43.58:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.11.10-21.43.58:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.11.10-21.43.58:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.11.10-21.43.58:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.11.10-21.43.58:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.11.10-21.43.58:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.11.10-21.43.58:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.11.10-21.43.58:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.11.10-21.43.58:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.11.10-21.43.58:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.11.10-21.43.58:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.11.10-21.43.58:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.11.10-21.43.58:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.11.10-21.43.58:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.11.10-21.43.58:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.11.10-21.43.58:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.11.10-21.43.58:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.11.10-21.43.58:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.11.10-21.43.58:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.11.10-21.43.58:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.11.10-21.43.58:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.11.10-21.43.58:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.11.10-21.43.58:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.11.10-21.43.58:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.11.10-21.43.58:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.11.10-21.43.58:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.11.10-21.43.59:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.11.10-21.43.59:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.11.10-21.43.59:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.11.10-21.43.59:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.11.10-21.43.59:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.11.10-21.43.59:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.11.10-21.43.59:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.11.10-21.43.59:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.11.10-21.43.59:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.11.10-21.43.59:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.11.10-21.43.59:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.11.10-21.43.59:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.11.10-21.43.59:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.11.10-21.43.59:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.11.10-21.43.59:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.11.10-21.43.59:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.11.10-21.43.59:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.11.10-21.43.59:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.11.10-21.43.59:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.11.10-21.43.59:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.11.10-21.43.59:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.11.10-21.43.59:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.11.10-21.43.59:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.11.10-21.44.00:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.11.10-21.44.01:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.11.10-21.44.01:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.11.10-21.44.01:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.11.10-21.44.01:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.11.10-21.44.01:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.11.10-21.44.01:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.11.10-21.44.01:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.11.10-21.44.01:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.11.10-21.44.01:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.11.10-21.44.01:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.11.10-21.44.01:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.11.10-21.44.01:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.11.10-21.44.01:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.11.10-21.44.01:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.11.10-21.44.01:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.11.10-21.44.01:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.11.10-21.44.01:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.11.10-21.44.01:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.11.10-21.44.01:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.11.10-21.44.01:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.11.10-21.44.01:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.11.10-21.44.01:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.11.10-21.44.01:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.11.10-21.44.01:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.11.10-21.44.01:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.11.10-21.44.01:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.11.10-21.44.01:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.11.10-21.44.01:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.11.10-21.44.01:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.11.10-21.44.02:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.11.10-21.44.02:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.11.10-21.44.02:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.11.10-21.44.02:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.11.10-21.44.02:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.11.10-21.44.02:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.11.10-21.44.02:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.11.10-21.44.02:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.11.10-21.44.02:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.11.10-21.44.02:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.11.10-21.44.02:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.11.10-21.44.02:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.11.10-21.44.02:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.11.10-21.44.02:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.11.10-21.44.02:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.11.10-21.44.03:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.11.10-21.44.03:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.11.10-21.44.03:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.11.10-21.44.03:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.11.10-21.44.03:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.11.10-21.44.03:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.11.10-21.44.03:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.11.10-21.44.03:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.11.10-21.44.03:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.11.10-21.44.03:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.11.10-21.44.03:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.11.10-21.44.03:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.11.10-21.44.03:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.11.10-21.44.03:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.11.10-21.44.03:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.11.10-21.44.03:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.11.10-21.44.03:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.11.10-21.44.03:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.11.10-21.44.03:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.11.10-21.44.03:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.11.10-21.44.04:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.11.10-21.44.04:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.11.10-21.44.04:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.11.10-21.44.04:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.11.10-21.44.04:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.11.10-21.44.04:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.11.10-21.44.04:344][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.11.10-21.44.04:508][  0]LogSavePackage: Save=17.97ms
+[2017.11.10-21.44.04:508][  0]LogSavePackage: Moving '../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Saved/Floor_400x40085E356F6483731E8E0AB3BB7607B65B3.tmp' to '../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.11.10-21.44.04:518][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.11.10-21.44.04:518][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.11.10-21.44.04:521][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.10-21.44.04:522][  0]LightingResults: New page: Lighting Build
+[2017.11.10-21.44.04:566][  0]MapCheck: New page: Map Check
+[2017.11.10-21.44.04:566][  0]LightingResults: New page: Lighting Build
+[2017.11.10-21.44.04:962][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.10-21.44.04:975][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.10-21.44.04:997][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.10-21.44.05:060][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.873ms to complete.
+[2017.11.10-21.44.05:060][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.539
+[2017.11.10-21.44.05:306][  0]LogCollectionManager: Loaded 0 collections in 0.001242 seconds
+[2017.11.10-21.44.05:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Saved/Collections/' took 0.01s
+[2017.11.10-21.44.05:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/Developers/Drew/Collections/' took 0.01s
+[2017.11.10-21.44.05:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Drew/Documents/GitHub/ThirdPerson/MyProject2/Content/Collections/' took 0.01s
+[2017.11.10-21.44.05:414][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.10-21.44.05:424][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2386 classes and 500 folders.
+[2017.11.10-21.44.05:501][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.10-21.44.05:888][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.10-21.44.05:942][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.10-21.44.06:047][  0]LogSlate: Took 0.008459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.10-21.44.06:056][  0]LogSlate: Took 0.005315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.10-21.44.06:072][  0]LogSlate: Took 0.004505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.10-21.44.06:154][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.10-21.44.06:216][  0]LogSlate: Took 0.005927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.10-21.44.06:357][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.10-21.44.06:357][  0]LogLoad: (Engine Initialization) Total time: 26.11 seconds
+[2017.11.10-21.44.06:357][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.10-21.44.06:357][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.10-21.44.06:367][  0]Cmd: ACTOR HIDE SELECTED
+[2017.11.10-21.44.06:395][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.10-21.44.06:427][  0]LogAssetRegistry: Asset discovery search completed in 20.8253 seconds
+[2017.11.10-21.44.06:428][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.10-21.44.06:428][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2017.11.10-21.44.06:530][  0]LogContentStreaming: Texture pool size now 1000 MB
